@@ -1,4 +1,4 @@
-package com.example.actuatordemo;
+package arch.ehuatai.actuatordemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

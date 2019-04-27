@@ -1,4 +1,4 @@
-package com.example.actuatordemo.health;
+package arch.ehuatai.actuatordemo.health;
 
 import org.springframework.boot.actuate.health.AbstractHealthIndicator;
 import org.springframework.boot.actuate.health.Health;
